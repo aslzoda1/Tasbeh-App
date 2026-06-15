@@ -25,3 +25,6 @@
   <div align="center"><table border="0"><tr><td align="center"><img src="https://github.com/user-attachments/assets/f40ad5aa-e127-4cb5-98d2-f3ee2c22e9c1" width="220" style="border-radius: 20px; border: 2px solid #00E5FF;" /><p><b>✨ Splash Screen</b></p></td><td align="center"><img src="https://github.com/user-attachments/assets/a545d762-3ad3-4e90-868d-610e9f96541e" width="220" style="border-radius: 20px; border: 2px solid #7F52FF;" /><p><b>📿 Zikr Panel</b></p></td><td align="center"><img src="https://github.com/user-attachments/assets/ebd43b55-4e29-4404-9b69-62418d77d1ea" width="220" style="border-radius: 20px; border: 2px solid #00E5FF;" /><p><b>📖 99 Names</b></p></td></tr></table></div>
   
   👩‍💻 𝑨𝑩𝑶𝑼𝑻 𝑻𝑯𝑬 𝑨𝑹𝑪𝑯𝑰𝑻𝑬𝑪𝑻 ᴀꜱʟᴢᴏᴅᴀ ʙᴏᴢᴏʀʙᴏʏᴇᴠᴀ  💫<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"></p><p align="center"><b>💎 TASBEH — 𝑬𝒍𝒆𝒗𝒂𝒕𝒆 𝒀𝒐𝒖𝒓 𝑺𝒑𝒊𝒓𝒊𝒕 💎</b></p>
+
+
+aslzoda
